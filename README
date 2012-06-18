@@ -1,0 +1,3 @@
+simple script to automatically update http proxy on netgear WGR-614 router to current ip (to keep web server alive for router reboots)
+
+credits to Samuel Nelson and Paul Cannon for a couple functions associated with finding the local ip address
